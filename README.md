@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Tarun Shokeen! 👋
 
 ## 🚀 About Me
@@ -7,17 +5,14 @@ I'm a student at Humber Polytechnic enrolled in the Web Development program, and
 
 - 🌍 Based in  Toronto, Canada.
   
-## 🛠️ Technologies & Tools
-Here are some of the technologies and tools I work with:
+## 🛠️ Here are some of the technologies and tools I work with:
 
 - **Frontend**: HTML, CSS, JavaScript, React, Bootstrap
 - **Backend**: Node.js, Express, C#
 - **Database**: MongoDB, MySQL, Firebase
 - **Tools**: Git, VS Code
 
-
-## 📫 Let's Connect!
-Feel free to reach out to me or follow my journey:
+## 📫 Let's Connect! Feel free to reach out to me or follow my journey:
 
 - 🌐 [Personal Website]([https://yourwebsite.com](https://shokeendev.my.canva.site/))
 - 💼 [LinkedIn](www.linkedin.com/in/shokeentarun20)
