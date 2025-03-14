@@ -14,6 +14,6 @@ I'm a student at Humber Polytechnic enrolled in the Web Development program, and
 
 ## 📫 Let's Connect! Feel free to reach out to me or follow my journey:
 
-- 🌐 [Personal Website]([https://yourwebsite.com](https://shokeendev.my.canva.site/))
+- 🌐 [Personal Website](https://shokeendev.my.canva.site/)
 - 💼 [LinkedIn](www.linkedin.com/in/shokeentarun20)
 - 📧 Email: [shokeentarun20@gmail.com](mailto:shokeentarun20@gmail.com)
