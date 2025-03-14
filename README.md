@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**Shokeent/Shokeent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Tarun Shokeen! 👋
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a student at Humber Polytechnic enrolled in the Web Development program, and I'm  passionate about building web applications and  learning new coding languages. I love learning new technologies and sharing my knowledge with others.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍 Based in  Toronto, Canada.
+  
+## 🛠️ Technologies & Tools
+Here are some of the technologies and tools I work with:
+
+- **Frontend**: HTML, CSS, JavaScript, React, Bootstrap
+- **Backend**: Node.js, Express, C#
+- **Database**: MongoDB, MySQL, Firebase
+- **Tools**: Git, VS Code
+
+
+## 📫 Let's Connect!
+Feel free to reach out to me or follow my journey:
+
+- 🌐 [Personal Website]([https://yourwebsite.com](https://shokeendev.my.canva.site/))
+- 💼 [LinkedIn](www.linkedin.com/in/shokeentarun20)
+- 📧 Email: [shokeentarun20@gmail.com](mailto:shokeentarun20@gmail.com)
