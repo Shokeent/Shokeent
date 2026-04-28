@@ -1,5 +1,5 @@
 <!-- Banner / Intro -->
-<h1 align="center">Hey !!!</h1>
+<h1 align="center">Hi 👋, I'm Shokeen!</h1>
 <h3 align="center">Full-Stack Engineer • Integrations • AI Workflows</h3>
 
 <p align="center">
